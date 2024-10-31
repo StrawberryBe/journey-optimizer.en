@@ -50,7 +50,7 @@ In addition, you can also leverage **computed attributes** to personalize your c
 
 [!DNL Journey Optimizer] provides an expression editor where you will select, arrange, customize and validate all the data to create a customized personalization for your content.
 
-Several tools are available to help build your personalization content, such as: felper functions, pre-defined expressions library, attributes favouriting, and more.
+Several tools are available to help build your personalization content, such as: helper functions, pre-defined expressions library, attributes favouriting, and more.
 
 Learn more about [!DNL Journey Optimizer] expression editor in [this section](personalization-build-expressions.md)
 
